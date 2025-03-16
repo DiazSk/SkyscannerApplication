@@ -27,7 +27,9 @@ The app displays a clean, modern UI with Skyscanner's design language, showing:
 - Flight card with flight number and status
 - Route overview with departure and arrival airports
 - Detailed departure and arrival information
-![image](https://github.com/user-attachments/assets/266347ef-fa1a-4e99-a1a2-67b9fdc41a6e)
+
+![image](https://github.com/user-attachments/assets/c87968af-37ec-421f-bd19-8bfde2185956)
+
 
 
 ## Dependencies
