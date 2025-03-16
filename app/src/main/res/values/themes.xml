@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.SkyscannerApplication" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/bpkPrimary</item>
+        <item name="colorPrimaryDark">@color/bpkPrimaryDark</item>
+        <item name="colorAccent">@color/bpkAccent</item>
+    </style>
+</resources>
